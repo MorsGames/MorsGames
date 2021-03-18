@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/MorsGames/github-stats/master/generated/languages.svg" />
-
 # Yo!
 
 I'm a game developer who sometimes dabbles into other programming stuff as well.
