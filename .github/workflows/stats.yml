@@ -16,4 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROFILE_VIEWS: False
           SHOW_PROJECTS: False
-          
+          IGNORED_REPOS: "Flashback-Launcher, AutoTyper, ROM-Explorer, BotStudio"
