@@ -25,5 +25,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           IGNORED_REPOS: "Flashback-Launcher, AutoTyper, ROM-Explorer, BotStudio"
           
-          SHOW_COMMIT: "False"
-          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
