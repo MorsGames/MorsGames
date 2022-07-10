@@ -14,8 +14,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROFILE_VIEWS: False
-          SHOW_PROJECTS: False
-          IGNORED_REPOS: "Flashback-Launcher, AutoTyper, ROM-Explorer, BotStudio"
           TIME_RANGE: last_6_months
           SHOW_TIME: false
